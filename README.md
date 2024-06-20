@@ -6,3 +6,6 @@ This function accepts a single integer as a parameter, and returns the sum of ev
 
 ### power.js
 This function accepts a natural integer base and a natural integer exponent, and returns (base^exponent).
+
+### factorial.js
+This function accepts a natural integer as a parameter, and returns the factorial.
