@@ -3,3 +3,6 @@ This repo contains several short JavaScript files that contain a recursive funct
 
 ### sumRange.js
 This function accepts a single integer as a parameter, and returns the sum of every integer between the one and the integer passed in (inclusive).
+
+### power.js
+This function accepts a natural integer base and a natural integer exponent, and returns (base^exponent).
