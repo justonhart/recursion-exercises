@@ -12,3 +12,6 @@ This function accepts a natural integer as a parameter, and returns the factoria
 
 ### all.js
 This function accepts an array and a callback function that returns a boolean, and returns true if the callback function returns true for all array values (otherwise, returns false).
+
+### productOfArray.js
+This function accepts an array of numbers and returns their product.
