@@ -24,3 +24,6 @@ This function accepts a multi-dimensional array, and returns the number of integ
 
 ### sumSquares.js
 This function accepts a multi-dimensional array, and returns the sum of the squares of the integers it contains.
+
+### replicate.js
+This fuction accepts a value and a number N, and returns an array containing the value N times.
