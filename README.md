@@ -21,3 +21,6 @@ This function accepts an object and a value, and returns true if the object or a
 
 ### totalIntegers.js
 This function accepts a multi-dimensional array, and returns the number of integers it contains.
+
+### sumSquares.js
+This function accepts a multi-dimensional array, and returns the sum of the squares of the integers it contains.
