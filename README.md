@@ -18,3 +18,6 @@ This function accepts an array of numbers and returns their product.
 
 ### contains.js
 This function accepts an object and a value, and returns true if the object or any of its properties contains the value.
+
+### totalIntegers.js
+This function accepts a multi-dimensional array, and returns the number of integers it contains.
